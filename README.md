@@ -57,9 +57,9 @@ Integração com o Excel
 
 Após a criação da view VENDAS, os dados foram importados para o Excel utilizando ferramentas como Microsoft Query ou Power Query. No Excel, foram criadas tabelas dinâmicas, gráficos e outros recursos para analisar os indicadores de vendas definidos no projeto.
 
-Dashboard Resultante
+## Dashboard Resultante
 
-![Dashboard de Vendas](dashboard.png)
+![Dashboard de Vendas](https://github.com/bebslima/Relatorio_vendas/blob/main/img/DashBoard.PNG)
 
 Screenshots e Exemplos
 
