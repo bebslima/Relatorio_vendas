@@ -12,7 +12,7 @@ Receita total online por mês do pedido
 Receita e custo total online por país
 Total de vendas online por sexo do cliente
 
-Tabelas Analisadas
+##Tabelas Analisadas
 
 As tabelas do banco de dados AdventureWorks utilizadas neste projeto são:
 FactInternetSales: Contém informações sobre as vendas online, como número do pedido, data, quantidade vendida, custo e receita.
@@ -22,7 +22,7 @@ DimProductCategory: Contém informações sobre as categorias de produtos, como 
 DimProductSubcategory: Contém informações sobre as subcategorias de produtos.
 DimProduct: Contém informações sobre os produtos.
 
-Colunas da View VENDAS
+## Colunas da View VENDAS
 
 Para facilitar a análise dos dados, foi criada a view VENDAS com as seguintes colunas:
 ```sql
@@ -53,7 +53,7 @@ JOIN
 ```
 
 
-Integração com o Excel
+## Integração com o Excel
 
 Após a criação da view VENDAS, os dados foram importados para o Excel utilizando ferramentas como Microsoft Query ou Power Query. No Excel, foram criadas tabelas dinâmicas, gráficos e outros recursos para analisar os indicadores de vendas definidos no projeto.
 
@@ -61,27 +61,27 @@ Após a criação da view VENDAS, os dados foram importados para o Excel utiliza
 
 ![Dashboard de Vendas](https://github.com/bebslima/Relatorio_vendas/blob/main/img/DashBoard.PNG)
 
-Screenshots e Exemplos
+## Screenshots e Exemplos
 
 Abaixo estão algumas imagens do dashboard gerado:
 
-Receita Total versus Custo Total por País
+## Receita Total versus Custo Total por País
 
 ![Receita Total versus Custo Total por País](receita_vs_custo_pais.png)
 
-Vendas por Mês
+## Vendas por Mês
 
 ![Vendas por Mês](vendas_por_mes.png)
 
-Vendas por Categoria
+## Vendas por Categoria
 
 ![Vendas por Categoria](vendas_por_categoria.png)
 
-Vendas por Gênero
+## Vendas por Gênero
 
 ![Vendas por Gênero](vendas_por_genero.png)
 
-Conclusão
+## Conclusão
 
 Este trabalho demonstra como integrar dados do SQL Server com o Excel para a análise eficaz das vendas, proporcionando insights valiosos para a tomada de decisões. O uso da view VENDAS simplificou o processo de extração de dados e permitiu uma análise mais ágil e visual no Excel.
 Através da análise de vendas da AdventureWorks Cycles, podemos extrair alguns insights importantes:
@@ -90,14 +90,3 @@ Tendências de vendas ao longo do tempo: Ao analisar a receita total online por 
 Análise de vendas por país: Ao analisar a receita e o custo total online por país, podemos identificar quais países têm o maior volume de vendas e onde os recursos estão sendo investidos proporcionalmente. Isso permite uma alocação de recursos mais eficiente e a identificação de mercados que podem ser promissores para expansão.
 Segmentação do mercado por sexo do cliente: Ao analisar o total de vendas online por sexo do cliente, podemos identificar diferenças no comportamento de compra entre homens e mulheres. Essas informações são valiosas para personalização de marketing e campanhas direcionadas.
 Esses são apenas alguns exemplos dos dados relevantes que podem ser extraídos da análise de vendas da AdventureWorks Cycles. Com base nesses insights, é possível tomar decisões informadas para impulsionar o crescimento e o sucesso do negócio.
-
-Como visualizar o código
-
-1. Clone o repositório:
-
-    git clone https://github.com/seu_usuario/nome_do_repositorio.git
-
-    
-2. Abra o projeto no seu editor de preferência.
-
-3. Siga as instruções no arquivo README para configurar o ambiente e executar as queries.
