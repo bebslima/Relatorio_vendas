@@ -25,7 +25,7 @@ DimProduct: Contém informações sobre os produtos.
 Colunas da View VENDAS
 
 Para facilitar a análise dos dados, foi criada a view VENDAS com as seguintes colunas:
-
+```sql
 CREATE OR ALTER VIEW VENDAS AS
 SELECT
     f.SalesOrderNumber AS 'Numero do Pedido',
@@ -50,7 +50,7 @@ JOIN
 JOIN
     DimProductCategory AS pc ON ps.ProductCategoryKey = pc.ProductCategoryKey;
 
-
+```
 
 
 Integração com o Excel
