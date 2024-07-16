@@ -79,7 +79,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 ## Vendas por Gênero
 
-![Vendas por Gênero](vendas_por_genero.png)
+![Vendas por Gênero](https://github.com/bebslima/Relatorio_vendas/blob/main/vendas_por_genero.PNG)
 
 ## Conclusão
 
