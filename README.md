@@ -67,7 +67,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 ## Receita Total versus Custo Total por País
 
-![Receita Total versus Custo Total por País](receita_vs_custo_pais.png)
+![Receita Total versus Custo Total por País]((https://github.com/bebslima/Relatorio_vendas/blob/main/Grafico_receita_total.PNG))
 
 ## Vendas por Mês
 
