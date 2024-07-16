@@ -71,7 +71,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 ## Vendas por Mês
 
-![Vendas por Mês](vendas_por_mes.png)
+![Vendas por Mês](https://github.com/bebslima/Relatorio_vendas/blob/main/Vendas_por_mes.PNG)
 
 ## Vendas por Categoria
 
