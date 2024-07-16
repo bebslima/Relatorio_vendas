@@ -75,7 +75,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 ## Vendas por Categoria
 
-![Vendas por Categoria](vendas_por_categoria.png)
+![Vendas por Categoria](https://github.com/bebslima/Relatorio_vendas/blob/main/Vendas_por_categoria.PNG)
 
 ## Vendas por Gênero
 
